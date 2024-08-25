@@ -1,10 +1,10 @@
 ### Languages I'm familiar with
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,c,nim,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,c,nim,lua)](https://skillicons.dev)
 
 ### Libraries/Frameworks that I use the most
 
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,svelte,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,svelte,jquery,prisma)](https://skillicons.dev)
 
 ### Technologies/Services
 

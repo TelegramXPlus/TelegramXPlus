@@ -8,7 +8,7 @@
 
 ### Technologies/Services
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql,supabase,mongodb,obsidian,nodejs,raspberryp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql,supabase,mongodb,obsidian,nodejs,raspberrypi)](https://skillicons.dev)
 
 ### GitHub Stats
 

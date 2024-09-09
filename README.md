@@ -1,6 +1,6 @@
 ### Languages I'm familiar with
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,c,nim,lua,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,c,nim,lua,go)](https://skillicons.dev)
 
 ### Libraries/Frameworks that I use the most
 

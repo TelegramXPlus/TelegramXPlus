@@ -10,6 +10,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql,supabase,mongodb,obsidian,nodejs,raspberrypi)](https://skillicons.dev)
 
+### Languages/Technologies that I have used briefly at least once
+
+[![My Skills](https://skillicons.dev/icons?i=php,cpp,java,express,bash,powershell,arduino,django,docker)](https://skillicons.dev)
+
 ### GitHub Stats
 
 [![Profile stats](https://github-readme-stats.vercel.app/api?username=TelegramXPlus&theme=react&title_color=36BCF7&bg_color=2a2f38&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

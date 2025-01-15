@@ -12,7 +12,7 @@
 
 ### Languages/Technologies that I have used briefly at least once
 
-[![My Skills](https://skillicons.dev/icons?i=php,cpp,java,express,bash,powershell,arduino,django,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,cpp,java,bash,powershell,arduino,express,django,docker)](https://skillicons.dev)
 
 ### GitHub Stats
 

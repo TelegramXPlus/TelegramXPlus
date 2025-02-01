@@ -4,7 +4,7 @@
 
 ### Libraries/Frameworks that I use the most
 
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,svelte,jquery,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,svelte,prisma)](https://skillicons.dev)
 
 ### Technologies/Services
 
@@ -12,7 +12,7 @@
 
 ### Languages/Technologies that I have used briefly at least once
 
-[![My Skills](https://skillicons.dev/icons?i=php,cpp,java,bash,powershell,arduino,express,django,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,cpp,java,bash,powershell,arduino,express,django,jquery,docker)](https://skillicons.dev)
 
 ### GitHub Stats
 
